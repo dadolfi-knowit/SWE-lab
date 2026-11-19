@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/knowit-experience/3e8828eb-1a83-4fc0-9bba-9fc8bd64bf4d/682ca4bd-55d0-4ba9-9e97-a7789d5532a6/_apis/work/boardbadge/aa431be8-86dd-4f5a-8e1a-2a259268b0bb)](https://dev.azure.com/knowit-experience/3e8828eb-1a83-4fc0-9bba-9fc8bd64bf4d/_boards/board/t/682ca4bd-55d0-4ba9-9e97-a7789d5532a6/Microsoft.RequirementCategory)
 # SWE-lab
